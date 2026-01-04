@@ -3,7 +3,7 @@
 ## Overview
 This project implements a fully serverless, event-driven inventory tracking system on AWS. The goal was to eliminate server management, enable automatic scaling, and build a cost-efficient architecture that responds to events in real time.
 
-The system processes uploaded inventory files, stores inventory data, and sends notifications when items are out of stock — all using managed AWS services.
+The system processes uploaded inventory files, stores inventory data, and sends notifications when items are out of stock all using managed AWS services.
 
 ---
 
